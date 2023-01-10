@@ -18,7 +18,7 @@ Adicione essa dependencia ao POM do seu projeto:
 
 ## Instalação Manual
 
-É possível baixar a última versão em [latest release](https://github.com/abrahao/abrahao-java/releases). Para utilizar o Abrahão SDK, inclua o arquivo .jar ao seu projeto.
+É possível baixar a última versão em [latest release](https://github.com/abrahaoapp/abrahao-java/releases). Para utilizar o Abrahão SDK, inclua o arquivo .jar ao seu projeto.
 
 
 ## Dependências
